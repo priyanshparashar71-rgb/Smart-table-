@@ -1,0 +1,8 @@
+{
+  "name": "Remix WebSketch",
+  "description": "Rapidly generate web layouts using HTML and hotlinked images with this intuitive interface builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
